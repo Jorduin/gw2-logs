@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260916-191512-o70k",
+      "title": "Silverah Shadowhart",
+      "commanders": [
+        "Silverah Shadowhart"
+      ],
+      "guild": {
+        "id": "BF87DDD0-8634-E411-9621-AC162DAE8ACD",
+        "name": "Rift Legion",
+        "tag": "Mist"
+      },
+      "dateStart": "2026-09-17T00:15:12.000Z",
+      "dateEnd": "2026-09-17T01:09:52.215Z",
+      "dateLabel": "9/16/2026, 7:15:12 PM - 9/16/2026, 8:09:52 PM",
+      "url": "https://Jorduin.github.io/gw2-logs/?report=20260916-191512-o70k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260915-193022-iyg3",
       "title": "Shae Pell Shimmer",
       "commanders": [
