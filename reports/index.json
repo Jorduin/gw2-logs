@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-191654-5gq9",
+      "title": "Mystic Vaelith",
+      "commanders": [
+        "Mystic Vaelith"
+      ],
+      "guild": {
+        "id": "7CAFDB3A-E4F1-EF11-8465-0228F2FB5E53",
+        "name": "Operation Get Em",
+        "tag": "TEAM"
+      },
+      "dateStart": "2026-09-29T00:16:54.000Z",
+      "dateEnd": "2026-09-29T01:07:15.089Z",
+      "dateLabel": "9/28/2026, 7:16:54 PM - 9/28/2026, 8:07:15 PM",
+      "url": "https://Jorduin.github.io/gw2-logs/?report=20260928-191654-5gq9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 40,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260926-165246-4tnc",
       "title": "Rose Of Aeons, Sadhbba The Blight",
       "commanders": [
